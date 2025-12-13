@@ -1,4 +1,4 @@
-# Vanilla-Harmonize
+# Vanilla Harmonize
 ***Modpack for completely unadulterated vanilla gameplay, with extensive UX, GUI, and visual polish***
 
 A vanilla-preserving modpack focused on interaction, interface clarity, and visual harmony. No new gameplay systems are introduced. No progression changes are made. Vanilla mechanics remain intact.
