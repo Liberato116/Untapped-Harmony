@@ -20,5 +20,7 @@ As an example, Physics Mod is extensively configured to avoid environmental clut
 
 Physics behavior is also context-aware: skeletons visually disassemble into individual parts, while zombies retain standard ragdoll behavior with a controlled chance of limb breakage, reflecting their distinct vanilla identities without affecting gameplay mechanics.
 
+For a comprehensive and commented list of config changes refer to the [Config Changes](https://github.com/Liberato116/Vanilla-Harmonize/wiki/Config-Changes) page eon the [wiki](https://github.com/Liberato116/Vanilla-Harmonize/wiki)
+
 
 Full credit to the Simply Optimized project and its contributors for Harmonize's performance. This pack expands upon its foundation with a strong focus on interface, interaction, and visual harmony.
