@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="200" height="200" alt="VanillaHarmonize" src="https://github.com/user-attachments/assets/d5106e30-be8a-4b3c-b04c-f7526c9a996a" />
+ <img width="200" height="200" alt="VanillaHarmonizeV2" src="https://github.com/user-attachments/assets/b0fadaa7-61e4-48d1-bf87-f16e6afbe6d7" />
 </div>
+
 
 # Vanilla Harmonize
 ***Modpack for completely unadulterated vanilla gameplay, with extensive UX, GUI, and visual polish***
