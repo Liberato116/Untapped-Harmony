@@ -1,0 +1,9 @@
+{
+  "configVersion": 2,
+  "windMode": "WAVES",
+  "capeStyle": "SMOOTH",
+  "capeMovement": "BASIC_SIMULATION",
+  "gravity": 25,
+  "heightMultiplier": 9,
+  "straveMultiplier": 2
+}
