@@ -1,7 +1,6 @@
 <div align="center">
- <img width="300" height="300" alt="VanillaHarmonizeV2" src="https://github.com/user-attachments/assets/b0fadaa7-61e4-48d1-bf87-f16e6afbe6d7" />
+ <img width="300" height="300" alt="Untapped Harmony" src="https://github.com/user-attachments/assets/b1381866-761d-4f25-8165-81de59c526e5" />
 </div>
-
 
 # Untapped Harmony
 ***Vanilla gameplay intact, refined through UX, GUI, and visual polish.***
