@@ -97,7 +97,7 @@ telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:0
 startedCleanly:true
-showNowPlayingToast:false
+showNowPlayingToast:true
 musicFrequency:"DEFAULT"
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -158,8 +158,8 @@ key_key.freecam.toggle:key.keyboard.f4
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown
-key_key.hotbarslotcycling.cycle_left:key.keyboard.h
-key_key.hotbarslotcycling.cycle_right:key.keyboard.j
+key_key.hotbarslotcycling.cycle_left:key.keyboard.unknown
+key_key.hotbarslotcycling.cycle_right:key.keyboard.unknown
 key_key.inventory_control_tweaks.drag_out_of_inventory_modifier:key.keyboard.left.control
 key_key.inventory_control_tweaks.drag_all_out_of_inventory_modifier:key.keyboard.unknown
 key_key.inventory_control_tweaks.click_armor_swap_modifier:key.keyboard.right.shift
@@ -167,7 +167,7 @@ key_key.inventory_control_tweaks.drag_all_stacks_across_modifier:key.keyboard.le
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.now-playing.group.display:key.keyboard.unknown
-key_key.now-playing.group.next:key.keyboard.unknown
+key_key.now-playing.group.next:key.keyboard.right.shift
 key_physicsmod.keybinding.grabobject:key.mouse.4
 key_physicsmod.keybinding.guiphysics:key.keyboard.f6
 key_physicsmod.keybinding.physicsmenu:key.keyboard.f7
@@ -198,7 +198,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.i
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:0.4
 soundCategory_music:0.1
 soundCategory_record:1.0
