@@ -2,9 +2,11 @@
  <img width="300" height="300" alt="Untapped Harmony" src="https://github.com/user-attachments/assets/b1381866-761d-4f25-8165-81de59c526e5" />
 </div>
 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1405001?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/untapped-harmony)
-
 # Untapped Harmony
+[![Modrinth Status](https://img.shields.io/badge/Modrinth-Under%20Review-orange?logo=modrinth)](https://modrinth.com/modpack/untapped-harmony)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1405001?logo=curseforge)](https://www.curseforge.com/minecraft/modpacks/untapped-harmony)
+[![Release Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Liberato116/Untapped-Harmony/main/.github/release-progress.json)](https://github.com/Liberato116/Untapped-Harmony/wiki/Latest-MC-Release-Mod-list-progress)
+
 ***Vanilla gameplay, intact — refined through UX, GUI, and visual polish.***
 
 A vanilla-preserving modpack focused on interaction, interface clarity, and visual harmony. No new gameplay systems are introduced. No progression changes are made. Vanilla mechanics remain intact.
