@@ -28,8 +28,8 @@ jobs:
       - name: Commit and push wiki changes
         run: |
           cd wiki
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add Latest-MC-Release-Mod-List-Progress.md
-          git commit -m "Update latest MC release mod list" || echo "No changes"
+          git commit -m "Update Latest MC Release Mod List" || echo "No changes"
           git push
