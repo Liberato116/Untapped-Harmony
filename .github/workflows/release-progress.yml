@@ -1,4 +1,6 @@
 name: Update Release Progress Badge
+permissions:
+  contents: write
 
 on:
   push:
@@ -9,9 +11,7 @@ on:
 jobs:
   update-progress:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    
     steps:
       - uses: actions/checkout@v4
 
@@ -20,8 +20,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Compute progress
-        run: python .github/scripts/compute_release_progress.py
+      - name: Parse progress
+        run: python .github/scripts/parse_progress.py
 
       - name: Commit updated badge
         run: |
