@@ -68,7 +68,7 @@ elif percent < 41:
 elif percent < 70:
     color = "#dfb317"        # orange
 elif percent < 90:
-    color = "#9acd32"        # yellow-green
+    color = "#b4c63b"        # yellow-green
 else:
     color = "#4cbb17"        # bright green
 
