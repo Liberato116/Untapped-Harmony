@@ -1063,6 +1063,20 @@
       "Lifetime": 100.0,
       "Lifetime Variance": 30.0,
       "Animation": -1
+    },
+    {
+      "identifier": "minecraft:camel_husk",
+      "Physics Type": 6,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
+    },
+    {
+      "identifier": "minecraft:parched",
+      "Physics Type": 1,
+      "Lifetime": 100.0,
+      "Lifetime Variance": 30.0,
+      "Animation": -1
     }
   ]
 }
