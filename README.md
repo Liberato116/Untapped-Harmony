@@ -30,3 +30,28 @@ For a comprehensive and commented list of config changes refer to the [Config Ch
 
 
 Full credit to the [Simply Optimized](https://modrinth.com/modpack/sop) project and its contributors for Harmony's performance. This pack expands upon its foundation with a strong focus on interface, interaction, and visual harmony.
+
+<details>
+<summary>Core mod list:</summary>
+
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds)                                                                                                        
+- [Auto HUD](https://modrinth.com/mod/autohud)                                                                                                                   
+- [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul)                                                                                                     
+- [Capes](https://modrinth.com/mod/capes)                                                                                                                        
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)                                                                                                 
+- [Freecam](https://modrinth.com/mod/freecam)
+- [Hold My Items](https://modrinth.com/mod/hold-my-items)
+- [Immersive UI](https://modrinth.com/mod/immersive-ui)                                                                                                                   
+- [InvMove](https://modrinth.com/mod/invmove)                                                                                                                    
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Item Interactions mod](https://modrinth.com/mod/item-interactions-mod)                                                                                                                
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)                                                                                                          
+- [Particular Reforged](https://modrinth.com/mod/particular-reforged)                                                                                            
+- [Physics Mod](https://modrinth.com/mod/physicsmod)                                                                                                             
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)                                                                                              
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)                                                                                              
+- [Smooth Gui](https://modrinth.com/mod/smooth-gui)                                                                                                              
+- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)                                                                                                    
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)                                                                                  
+- [Sounds](https://modrinth.com/mod/sound)                                                                                                              
+</details>
