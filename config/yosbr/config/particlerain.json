@@ -5,7 +5,7 @@
     "particleDensity": 100,
     "particleStormDensity": 200,
     "particleDistance": 16,
-    "surfaceRange": 48
+    "surfaceRange": 64
   },
   "sound": {
     "rainVolume": 0.2,
